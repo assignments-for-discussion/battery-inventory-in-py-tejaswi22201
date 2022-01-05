@@ -18,7 +18,7 @@ def test_bucketing_by_number_of_cycles():
 
 if __name__ == '__main__':
   test_bucketing_by_number_of_cycles()
-  if counts= 400:
+  if(counts=400):
   return lowCount;
 if ((counts>400)&&(counnts<=919):
     return mediumCount;
